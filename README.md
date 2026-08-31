@@ -32,7 +32,8 @@ Tujuan utamanya adalah untuk mendukung SDGs 13.3 (peningkatan edukasi, kesadaran
 - Mahasiswa yang mau belajar sekaligus melakukan aksi nyata untuk mengurangi dampak perubahan iklim di lingkungan sekitar.
 
 ## Mockup Kasar Sederhana
-https://www.figma.com/proto/jXIUttSKgbUw58Potvft0s/Mock-Up-Kasar-PemWeb?node-id=8-4&p=f&t=BAEACNDKrvkScZQl-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+<img width="277" height="460" alt="Screenshot 2026-08-31 234927" src="https://github.com/user-attachments/assets/732f3013-4447-43c7-b244-14eb0a73a6d6" />
+
 
 ## Skema Database
 <img width="375" height="661" alt="SkemaDatabasePemWeb drawio" src="https://github.com/user-attachments/assets/5286c978-6694-4e54-bff8-c20d71ca31a3" />
