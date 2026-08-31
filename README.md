@@ -35,5 +35,5 @@ Tujuan utamanya adalah untuk mendukung SDGs 13.3 (peningkatan edukasi, kesadaran
 https://www.figma.com/proto/jXIUttSKgbUw58Potvft0s/Mock-Up-Kasar-PemWeb?node-id=8-4&p=f&t=BAEACNDKrvkScZQl-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Skema Database
-<img width="750" height="1322" alt="SkemaDatabasePemWeb drawio" src="https://github.com/user-attachments/assets/5286c978-6694-4e54-bff8-c20d71ca31a3" />
+<img width="375" height="661" alt="SkemaDatabasePemWeb drawio" src="https://github.com/user-attachments/assets/5286c978-6694-4e54-bff8-c20d71ca31a3" />
 
