@@ -9,17 +9,18 @@
 
 ## Fungsi
   Website ini berfungsi sebagai platform edukasi dan aksi lingkungan digital berbasis komunitas akademis yang bertujuan meningkatkan kesadaran serta kapasitas institusi pendidikan dalam mitigasi perubahan iklim melalui fitur:
-  1. Pusat Literasi Iklim Digital (E-Library)
 
-Tempat akses modul, artikel, dan berita yang berisi tentang iklim dan apa yang sedang terjadi di suatu tempat.
-
-  2. Manajemen Tantangan Aksi Hijau
+  1. Manajemen Tantangan Aksi Hijau
 
 Fitur untuk mahasiswa mencatat dan upload bukti kegiatan ramah lingkungan sehari-hari, seperti jalan kaki ke kampus, mengurangi sampah plastik(membawa tempat bekal dari rumah), membersihkan tempat sekitar (mengambil sampah yang dibuang sembarangan).
 
-  4. Leaderboard Kampus
+  2. Leaderboard Kampus
 
 Sistem poin dan papan peringkat untuk melihat jurusan mana yang paling aktif ikut aksi iklim.
+
+  3. Pusat Literasi Iklim Digital (E-Library)
+
+Tempat akses modul, artikel, dan berita yang berisi tentang iklim dan apa yang sedang terjadi di suatu tempat.
 
 ## Tujuan
 Tujuan utamanya adalah untuk mendukung SDGs 13.3 (peningkatan edukasi, kesadaran, dan kapasitas institusi soal iklim) serta indikator Indikator 13.3.1 (supaya pendidikan soal lingkungan dna pembangunan bberkelanjutan benar-benar diterapkan dan masuk ke dalam lingkungan pendidikan).
