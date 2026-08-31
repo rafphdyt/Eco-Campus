@@ -22,6 +22,10 @@ Fitur untuk mahasiswa mencatat dan upload bukti kegiatan ramah lingkungan sehari
 Sistem poin dan papan peringkat untuk melihat jurusan mana yang paling aktif ikut aksi iklim.
 
 ## Tujuan
+Tujuan utamanya adalah untuk mendukung SDGs 13.3 (peningkatan edukasi, kesadaran, dan kapasitas institusi soal iklim) serta indikator Indikator 13.3.1 (supaya pendidikan soal lingkungan dna pembangunan bberkelanjutan benar-benar diterapkan dan masuk ke dalam lingkungan pendidikan).
+
+- Membangun Kesadaran Nyata (SDGs 13.3): Mengajak mahasiswa beralih kebiasaan menjadi lebih peduli lingkungan, salah satunya lewat aksi mengambil sampah plastik dan mengurangi jejak karbon sehari-hari.
+- Kapasitas Kampus Hijau (SDGs 13.3): Membantu institusi pendidikan membuat ekosistem kampus yang bersama-sama aktif mengurangi dampak lingkungan lewat kegiatan nyata.
 
 ## Target Pengguna
 - Mahasiswa yang mau belajar sekaligus melakukan aksi nyata untuk mengurangi dampak perubahan iklim di lingkungan sekitar.
