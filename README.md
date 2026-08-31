@@ -34,3 +34,5 @@ Tujuan utamanya adalah untuk mendukung SDGs 13.3 (peningkatan edukasi, kesadaran
 ## Mockup Kasar Sederhana
 
 ## Skema Database
+![EcoCampus Dashboard](<img width="750" height="1322" alt="SkemaDatabasePemWeb drawio" src="https://github.com/user-attachments/assets/4c187745-b8ca-4bde-aef8-775d2f2fbf9b" />
+)
